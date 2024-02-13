@@ -1,0 +1,90 @@
+{
+  "apim-request-id": "c5af8819-fe92-4fcc-89d3-309be5e5d94d",
+  "content-length": "1088",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1024,
+    "height": 682
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "roupas",
+        "confidence": 0.9903867244720459
+      },
+      {
+        "name": "pessoa",
+        "confidence": 0.9825903177261353
+      },
+      {
+        "name": "loja de conveniência",
+        "confidence": 0.9799700975418091
+      },
+      {
+        "name": "varejo",
+        "confidence": 0.9788037538528442
+      },
+      {
+        "name": "supermercado",
+        "confidence": 0.9576846361160278
+      },
+      {
+        "name": "loja de mantimentos",
+        "confidence": 0.9418376684188843
+      },
+      {
+        "name": "compras",
+        "confidence": 0.9195953011512756
+      },
+      {
+        "name": "cliente",
+        "confidence": 0.9176949262619019
+      },
+      {
+        "name": "texto",
+        "confidence": 0.906154215335846
+      },
+      {
+        "name": "comércio",
+        "confidence": 0.9014638066291809
+      },
+      {
+        "name": "rosto humano",
+        "confidence": 0.9004635810852051
+      },
+      {
+        "name": "interior",
+        "confidence": 0.8902596235275269
+      },
+      {
+        "name": "mulher",
+        "confidence": 0.88371741771698
+      },
+      {
+        "name": "venda",
+        "confidence": 0.8815276622772217
+      },
+      {
+        "name": "loja",
+        "confidence": 0.8811236619949341
+      },
+      {
+        "name": "mercado",
+        "confidence": 0.8682040572166443
+      },
+      {
+        "name": "prateleira",
+        "confidence": 0.6904568672180176
+      },
+      {
+        "name": "em pé",
+        "confidence": 0.6564067602157593
+      },
+      {
+        "name": "feira",
+        "confidence": 0.5118435025215149
+      }
+    ]
+  }
+}
