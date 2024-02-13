@@ -6,9 +6,6 @@ São três laboratórios curtos, que visam o entendimento do funcionamento dos s
 
 *******
 ### Índice
-- [Reconhecimento Facial e transformação de imagens em Dados no Azure ML](#reconhecimento-facial-e-transformação-de-imagens-em-dados-no-azure-ml)
-  - [Objetivo dos laborátorios](#objetivo-dos-laborátorios)
-    - [Índice](#índice)
   - [Criação do recurso](#criação-do-recurso)
   - [Detectando rostos em uma imagem](#detectando-rostos-em-uma-imagem)
   - [Lendo textos em um arquivo](#lendo-textos-em-um-arquivo)
