@@ -5,12 +5,12 @@ Neste repositório, estarei documentando o passo a passo da execução do labora
 Usar dados de histórico de um serviço de aluguel de bikes para treinar um modelo que prevê o número de bicicletas alugadas esperadas em dias especificos, baseado em características sazonais e meteorológicas.
 
 *******
-### Índice
- 1. [Criação do Workspace](##CriaçãodoWorkspace)
- 2. [Criando o modelo](##Criandoomodelo)
- 3. [Configurando a tarefa](##Configurandoatarefa)
- 4. [Avaliação dos resultados](##Avaliaçãodosresultados)
- 5. [Conclusão](##Conclusão)
+### Índice  
+  - [Criação do Workspace](#criação-do-workspace)
+  - [Criando o modelo](#criando-o-modelo)
+  - [Configurando a tarefa](#configurando-a-tarefa)
+  - [Avaliação dos resultados](#avaliação-dos-resultados)
+  - [Conclusão](#conclusão)
 
 *******
 
