@@ -6,16 +6,12 @@ Construir uma solução de mineração de conhecimento que facilite a busca de i
 
 *******
 ### Índice
-- [Utilizando AI Search para indexação e consulta de Dados](#utilizando-ai-search-para-indexação-e-consulta-de-dados)
-  - [Objetivo dos laborátorios](#objetivo-dos-laborátorios)
-    - [Índice](#índice)
   - [Criação dos recursos de IA](#criação-dos-recursos-de-ia)
   - [Criação da conta de armazenamento](#criação-da-conta-de-armazenamento)
   - [Importando os dados](#importando-os-dados)
   - [Adicionando um indexador de destino](#adicionando-um-indexador-de-destino)
   - [Adicionando índice para pesquisa](#adicionando-índice-para-pesquisa)
   - [Conclusão](#conclusão)
-    - [Referências](#referências)
 
 *******
 
