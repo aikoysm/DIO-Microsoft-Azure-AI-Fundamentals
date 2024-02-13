@@ -7,14 +7,10 @@ São dois laboratórios curtos, que visam o entendimento do funcionamento dos se
 
 *******
 ### Índice
-- [Análise de Sentimentos com Language Studio no Azure AI](#análise-de-sentimentos-com-language-studio-no-azure-ai)
-  - [Objetivo dos laborátorios](#objetivo-dos-laborátorios)
-    - [Índice](#índice)
   - [Criação do recurso](#criação-do-recurso)
   - [Conversão de fala em texto](#conversão-de-fala-em-texto)
   - [Analisando sentimentos em um texto](#analisando-sentimentos-em-um-texto)
   - [Conclusão](#conclusão)
-    - [Referências](#referências)
 
 *******
 
