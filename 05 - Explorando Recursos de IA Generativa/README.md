@@ -6,14 +6,10 @@ Entender os formatos de resposta de uma IA generativa, praticando com solicitaç
 
 *******
 ### Índice
-- [Explorando os Recursos de IA Generativa com Copilot e OpenAI](#explorando-os-recursos-de-ia-generativa-com-copilot-e-openai)
-  - [Objetivo do laborátorio](#objetivo-do-laborátorio)
-    - [Índice](#índice)
   - [Geração de linguagem natural](#geração-de-linguagem-natural)
   - [Geração de imagem](#geração-de-imagem)
   - [Geração de código](#geração-de-código)
   - [Conclusão](#conclusão)
-    - [Referências](#referências)
 
 *******
 
