@@ -24,14 +24,14 @@ Com isso pude ver como a IA responde de acordo com o idiota utilizado, como ela 
 
 
 ## Geração de imagem
-Agora partindo para a ferramenta de criação de imagens, inseri o seguinte prompt "Crie uma imagem de um crocodilo comendo uma pizza", e obtive o seguinte retorno:
-![ ](https://imgur.com/ebBqXwL.png)
-Reparei que após gerar as imagens, a própria plataforma também forneceu algumas sugestões de características a serem adicionadas às imagens, então decidi inserir um prompt novo, pedindo que imagem fosse gerada com um design realistico, e obtive o seguinte retorno:
+Agora partindo para a ferramenta de criação de imagens, inseri o seguinte prompt "Crie uma imagem de um crocodilo comendo uma pizza", e obtive o seguinte retorno:  
+![ ](https://imgur.com/ebBqXwL.png)  
+Reparei que após gerar as imagens, a própria plataforma também forneceu algumas sugestões de características a serem adicionadas às imagens, então decidi inserir um prompt novo, pedindo que imagem fosse gerada com um design realistico, e obtive o seguinte retorno:  
 ![ ](https://imgur.com/aZDEJDc.png)  
 
 ## Geração de código
-Finalizando o laboratório, também testei a capacidade da IA de gerar linhas de código, onde pedi que fosse criado um jogo da velha utilizando Python. Como resultado, a IA não só criou o código, como também me deu duas formas de como aplicá-lo.
-![ ](https://imgur.com/9ohwRjK.png)
+Finalizando o laboratório, também testei a capacidade da IA de gerar linhas de código, onde pedi que fosse criado um jogo da velha utilizando Python. Como resultado, a IA não só criou o código, como também me deu duas formas de como aplicá-lo.  
+![ ](https://imgur.com/9ohwRjK.png)  
 
 
 ## Conclusão
